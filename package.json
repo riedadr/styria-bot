@@ -1,0 +1,14 @@
+{
+  "name": "styria-bot",
+  "version": "1.0.0",
+  "description": "Styria Discord Bot",
+  "main": "./src/index.js",
+  "repository": "https://github.com/riedadr/styria-bot.git",
+  "author": "riedadr",
+  "license": "none",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.3"
+  }
+}
